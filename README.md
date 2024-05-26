@@ -21,15 +21,19 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/EssncDev/Solana_SPL_Distributor.git
 ```
 Navigate to the project directory:
 ```sh
-cd project-Name
+cd Solana_SPL_Distributor
 ```
 Install all dependencies:
 ```sh
 npm Install
+```
+Rebuild project:
+```sh
+npm rebuild
 ```
 
 Fill put the distribution.json (share: 0.2 = 20%)
@@ -105,7 +109,7 @@ Open a pull request.
 Please ensure your code follows the project's coding guidelines and includes appropriate tests.
 
 ## License
-
+CC BY
 
 ## Acknowledgements
 EssncDev as the creator  
@@ -113,7 +117,7 @@ EssncDev as the creator
 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact me at    
-> Discord: _rough_  
->Twitter: @ohh_rgh
+> Discord: ```_rough_```  
+>Twitter: ```@ohh_rgh```
 
 Thank you for using this project!

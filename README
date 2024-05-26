@@ -62,6 +62,8 @@ Example
  
 node getDistributionInfo.mjs
 ```
+Result:
+![Result img](https://github.com/EssncDev/Solana_SPL_Distributor/blob/main/README_components/getDistributionInfo_Result.png?raw=true)
 
 ```sh
 # Send distribution infos based on the Distribution.json.   
@@ -71,6 +73,9 @@ node getDistributionInfo.mjs
 
  node sendDistribution.mjs
 ```
+Result:
+![Result img](https://github.com/EssncDev/Solana_SPL_Distributor/blob/main/README_components/sendDistribution_Result.png?raw=true)
+
 
 Example .env file:
 

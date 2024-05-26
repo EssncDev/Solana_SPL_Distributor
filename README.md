@@ -36,7 +36,7 @@ Rebuild project:
 npm rebuild
 ```
 
-Fill put the distribution.json (share: 0.2 = 20%)
+Fill out the distribution.json (share: 0.2 = 20%)
 ```json
 {
     "<token_address>": [

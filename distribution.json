@@ -1,0 +1,16 @@
+{
+    "<token_address>": [
+        {
+            "pubKey": "<wallet_address>",
+            "share": 0.2 
+        },
+        {
+            "pubKey": "<wallet_address>",
+            "share": 0.5
+        },
+        {
+            "pubKey": "<wallet_address>",
+            "share": 0.3
+        }
+    ]
+}
